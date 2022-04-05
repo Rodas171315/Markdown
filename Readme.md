@@ -41,7 +41,7 @@ Se les debe permitir a los usuarios poder realizar funciones con base en el sist
 | Dependencias con otros módulos  | Después de que el módulo de autenticación de usuarios haya validado a un usuario, se le permitirá continuar al dashboard correspondiente. |
 
 - Diagrama UML.
-![](Figures/UML Login.png)
+![](Figures/UML-Login.png)
 > **Figura 1.** Diagrama de Estado del Login.
 
 - Vista Preliminar.
@@ -63,7 +63,7 @@ Se les debe permitir a los usuarios poder realizar funciones con base en el sist
 | Dependencias con otros módulos  | Deben encontrarse implementadas las interfaces de formularios y catálogos. |
 
 - Diagrama UML.
-![](Figures/UML Notificaciones.png)
+![](Figures/UML-Notificaciones.png)
 > **Figura 3.** Casos de Uso para mostrar notificaciones.
 
 - Vista Preliminar.
